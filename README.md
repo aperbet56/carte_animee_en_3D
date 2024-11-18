@@ -6,7 +6,7 @@ Création d'une animation 3D sur une carte qui donne l'impression que les person
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/carte_animee_en_3D/
 
 ## Projet développé avec
 
