@@ -2,7 +2,7 @@
 
 ## Le challenge
 
-Création d'une animation 3D sur une carte qui donne l'impression que les personnes sortent de la carte.
+Création d'une animation 3D sur une carte qui donne l'impression que les personnes sortent de la carte au survol de celle-ci par l'internaute.
 
 ## Démonstration
 
